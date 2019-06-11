@@ -10,4 +10,4 @@ In terminal run:
     
     python3 scheme.py
 
-Hover your mouse around the surrounding area to find yelp ratings.
+Use scheme syntax to use the interpreter.
